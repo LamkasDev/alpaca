@@ -1,0 +1,7 @@
+{
+    "go.buildTags": "alpaca64,alpacadebug",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ]
+}
